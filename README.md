@@ -50,23 +50,13 @@ A community maintained open source project aimed at making personal portfolio fo
 
 Are we missing any of your favorite features, which you think you can add to it❓ We invite you to contribute to this project and improve it further.
 
-Click on the image below to set up and contribute to the project or [Click here](https://github.com/smaranjitghose/awesome-portfolio-websites/blob/master/CONTRIBUTING.md)
+
 
 <a href = "https://github.com/smaranjitghose/awesome-portfolio-websites/blob/master/CONTRIBUTING.md">
 <img src = "./readme_assets/Contribution.png"></a>
 
-## Project Maintainers👨🏫:
-
-| <img src = "https://avatars2.githubusercontent.com/u/46641503?v=4"> | <img src = "https://avatars2.githubusercontent.com/u/40017559?v=4"> | 
-| :----------------------------------------------------------: | :----------------------------------------------------------: | 
-|     [Smaranjit Ghose](https://github.com/smaranjitghose) |    [Anush Bhatia](https://github.com/anushbhatia)                       
 
 
-## Our valuable Contributors👩‍💻👨‍💻 :
-
-<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=smaranjitghose/awesome-portfolio-websites" />
-</a>
 
 ## Open Source Programs we have been a part of:
 
